@@ -1,0 +1,57 @@
+[
+	{
+		"id": "1",
+		"title": "Breaking Bad",
+		"description": "A high school chemistry teacher turned methamphetamine producer.",
+		"image": "/breaking_bad.png",
+		"rating": 4,
+		"tags": ["Drama", "Crime", "Thriller"],
+		"notes": "An impressive series about the transformation of an ordinary man into a criminal.",
+		"color": "#2d5f32",
+		"releaseDate": 2008
+	},
+	{
+		"id": "2",
+		"title": "Stranger Things",
+		"description": "A group of kids uncovering supernatural mysteries in their town",
+		"image": "/stranger_things.png",
+		"rating": 4,
+		"tags": ["Sci-fi", "Horror", "Mystery"],
+		"notes": "A perfect blend of 80s nostalgia and science fiction.",
+		"color": "#5f2d32",
+		"releaseDate": 2016
+	},
+	{
+		"id": "3",
+		"title": "The Walking Dead",
+		"description": "Survivors of a zombie apocalypse fight to stay alive",
+		"image": "the_walking_dead.png",
+		"rating": 2,
+		"tags": ["Horror", "Drama", "Action"],
+		"notes": "An intense series about survival in a post-apocalyptic world.",
+		"color": "#555FB4",
+		"releaseDate": 2010
+	},
+	{
+		"id": "4",
+		"title": "Game of Thrones",
+		"description": "Noble families vie for control of the Iron Throne",
+		"image": "game_of_thrones.png",
+		"rating": 3,
+		"tags": ["Fantasy", "Drama", "Action"],
+		"notes": "An epic tale of power, betrayal, and war.",
+		"color": "#5F322D",
+		"releaseDate": 2011
+	},
+	{
+		"id": "5",
+		"title": "American Horror Story",
+		"description": "An anthology series centering on different characters and locations, including a haunted house, an...",
+		"image": "american_horror_story.png",
+		"rating": 3,
+		"tags": ["Horror", "Drama", "Thriller"],
+		"notes": "A chilling anthology series with a new story each season.",
+		"color": "#505050",
+		"releaseDate": 2011
+	}
+]
