@@ -1,6 +1,6 @@
 <script>
+import card_test_data from "./assets/card_test_data.json";
 import CardBoard from "./components/CardBoard.vue";
-import card_test_data from "./card_test_data.json";
 import FilterBar from "./components/FilterBar.vue";
 import CardForm from "./components/CardForm.vue";
 
@@ -13,7 +13,7 @@ export default {
 	},
 	data() {
 		return {
-			card_test_data,
+			card_test_data, // Only used for testing during PEC 2
 			ShowForm: true, //Set to true by default for testing during PEC 2
 		};
 	},
