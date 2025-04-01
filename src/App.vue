@@ -1,8 +1,8 @@
 <script>
-import card_test_data from "./assets/card_test_data.json";
-import CardBoard from "./components/CardBoard.vue";
-import FilterBar from "./components/FilterBar.vue";
-import CardForm from "./components/CardForm.vue";
+import card_test_data from "@/assets/card_test_data.json";
+import CardBoard from "@/components/CardBoard.vue";
+import FilterBar from "@/components/FilterBar.vue";
+import CardForm from "@/components/CardForm.vue";
 
 export default {
 	name: "App",

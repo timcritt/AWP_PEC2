@@ -1,5 +1,5 @@
 <script>
-import ShowCard from "./ShowCard.vue";
+import ShowCard from "@/components/ShowCard.vue";
 
 export default {
 	name: "CardBoard",
@@ -16,9 +16,9 @@ export default {
 </script>
 
 <template>
-	<article class="board">
+	<section class="board">
 		<ShowCard v-for="(show, index) in showList" :key="index" :show="show" />
-	</article>
+	</section>
 </template>
 
 <style scoped>

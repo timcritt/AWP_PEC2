@@ -1,5 +1,5 @@
 <script>
-import arrowIcon from "../assets/arrow-right.svg";
+import arrowIcon from "@/assets/arrow-right.svg";
 
 export default {
 	name: "CardForm",

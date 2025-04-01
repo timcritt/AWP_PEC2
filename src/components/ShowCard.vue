@@ -1,5 +1,5 @@
 <script>
-import deleteIcon from "../assets/delete.svg";
+import deleteIcon from "@/assets/delete.svg";
 
 export default {
 	name: "ShowCard",
@@ -24,7 +24,7 @@ export default {
 		<button class="delete-btn"><img :src="deleteIcon" alt="delete" /></button>
 		<img :src="show.image" alt="Cover" class="cover" />
 
-		<div>
+		<section>
 			<h2 class="info__title">{{ show.title }}</h2>
 			<p class="info__description">{{ show.description }}</p>
 			<p class="info__year">{{ show.releaseDate }}</p>
@@ -42,7 +42,7 @@ export default {
 				>
 				<span v-for="(star, index) in 5 - show.rating" :key="index">★</span>
 			</div>
-		</div>
+		</section>
 	</article>
 </template>
 
