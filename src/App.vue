@@ -1,4 +1,5 @@
 <script>
+// Import JSON data for testing during PEC 2. This will be done asynchronously in the future.
 import card_test_data from "@/assets/card_test_data.json";
 import CardBoard from "@/components/CardBoard.vue";
 import FilterBar from "@/components/FilterBar.vue";

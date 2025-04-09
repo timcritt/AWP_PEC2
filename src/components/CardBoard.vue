@@ -11,7 +11,7 @@ export default {
 			validator(shows) {
 				return shows.every(
 					(show) =>
-						typeof show.id === "string" &&
+						typeof show.id === "number" &&
 						typeof show.title === "string" &&
 						typeof show.description === "string" &&
 						typeof show.image === "string" &&

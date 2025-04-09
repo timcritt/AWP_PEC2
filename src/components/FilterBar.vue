@@ -4,7 +4,7 @@ export default {
 
 	data() {
 		return {
-			addNewShow: true, // Set to true by default for testing during PEC 2.
+			addNewShowVisible: true, // Set to true by default for testing during PEC 2.
 		};
 	},
 };
@@ -18,7 +18,9 @@ export default {
 				placeholder="Search..."
 				class="filter-bar__input"
 			/><button class="btn">clear</button>
-			<button v-if="addNewShow" class="btn btn--cta">Add new show</button>
+			<button v-if="addNewShowVisible" class="btn btn--cta">
+				Add new show
+			</button>
 		</div>
 		<form class="filter-bar__second">
 			<div class="input-group">

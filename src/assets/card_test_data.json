@@ -1,9 +1,9 @@
 [
 	{
-		"id": "1",
+		"id": 1,
 		"title": "Breaking Bad",
 		"description": "A high school chemistry teacher turned methamphetamine producer.",
-		"image": "/breaking_bad.png",
+		"image": "https://i.imgur.com/5aj5U6u.png",
 		"rating": 4,
 		"tags": ["Drama", "Crime", "Thriller"],
 		"notes": "An impressive series about the transformation of an ordinary man into a criminal.",
@@ -11,10 +11,10 @@
 		"releaseDate": 2008
 	},
 	{
-		"id": "2",
+		"id": 2,
 		"title": "Stranger Things",
 		"description": "A group of kids uncovering supernatural mysteries in their town",
-		"image": "/stranger_things.png",
+		"image": "https://i.imgur.com/ZQsWYfm.jpeg",
 		"rating": 4,
 		"tags": ["Sci-fi", "Horror", "Mystery"],
 		"notes": "A perfect blend of 80s nostalgia and science fiction.",
@@ -22,10 +22,10 @@
 		"releaseDate": 2016
 	},
 	{
-		"id": "3",
+		"id": 3,
 		"title": "The Walking Dead",
 		"description": "Survivors of a zombie apocalypse fight to stay alive",
-		"image": "the_walking_dead.png",
+		"image": "https://i.imgur.com/NBRAjwh.jpeg",
 		"rating": 2,
 		"tags": ["Horror", "Drama", "Action"],
 		"notes": "An intense series about survival in a post-apocalyptic world.",
@@ -33,10 +33,10 @@
 		"releaseDate": 2010
 	},
 	{
-		"id": "4",
+		"id": 4,
 		"title": "Game of Thrones",
 		"description": "Noble families vie for control of the Iron Throne",
-		"image": "game_of_thrones.png",
+		"image": "https://i.imgur.com/fYvk8N8.jpeg",
 		"rating": 3,
 		"tags": ["Fantasy", "Drama", "Action"],
 		"notes": "An epic tale of power, betrayal, and war.",
@@ -44,10 +44,10 @@
 		"releaseDate": 2011
 	},
 	{
-		"id": "5",
+		"id": 5,
 		"title": "American Horror Story",
 		"description": "An anthology series centering on different characters and locations, including a haunted house, an...",
-		"image": "american_horror_story.png",
+		"image": "https://i.imgur.com/si9YAxp.jpeg",
 		"rating": 3,
 		"tags": ["Horror", "Drama", "Thriller"],
 		"notes": "A chilling anthology series with a new story each season.",
